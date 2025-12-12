@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using Unitbv.Assistant.Api.Models.DTOs.AIAssistantController;
 
-using HCI.AIAssistant.API.Models.DTOs.AIAssistantController;
 using HCI.AIAssistant.API.Services;
 using HCI.AIAssistant.API.Models.DTOs;
 using Newtonsoft.Json;
